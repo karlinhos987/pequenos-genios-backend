@@ -1,7 +1,7 @@
 # 🏫 &nbsp;[PEQUENOS GÊNIOS](https://pequenosgenios-backend.herokuapp.com/swagger-ui/index.html#/)
 
 - 📚 &nbsp; Desafio final do 1º **DEV FOR TECH by ACATE** desenvolvido pela Gama Academy: <a href="https://drive.google.com/file/d/1sG0nCl7868g2TRcnQ5rYnyhQ9YctgKAx/view?usp=sharing" target="_blank">detalhamento sobre o projeto</a>.
-- 🛠 &nbsp; Desenvolvido por **Antônio Gabriel Sgarbi Kadzerski, Carlos Roberto de Oliveira Junior, Denis William Mamoni, Hugo Vinícius Valentim Damasceno, Ricardo L. Machado e Sebastião Leal**.
+- 🛠 &nbsp; Desenvolvido por **Carlos Roberto de Oliveira Junior**.
 
  ---
 
@@ -37,7 +37,7 @@ Na aplicação foram incluídos:
 
 Para clonar o repositório do git:
 
-1. git remote add origin git remote add origin https://github.com/sbstleal/pequenos-genios-backend.git
+1. git remote add origin git remote add origin https://github.com/karlinhos987/pequenos-genios-backend.git
 2. git branch -M main
 3. git push -u origin main
 
@@ -64,13 +64,3 @@ API REST:
 - Swagger UI:
     - http://localhost:8080/swagger-ui/index.html#/
 ---
-
-<h2> 💼 &nbsp;Caso deseje saber mais sobre os integrantes, abaixo encontra-se nosso Linkedin: <h2/>
-
-[![Linkedin: antonio](https://img.shields.io/badge/-Antônio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agsk)](https://www.linkedin.com/in/agsk)
-[![Linkedin: carlos](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlinhos987/)](https://www.linkedin.com/in/karlinhos987/)
-[![Linkedin: denis](https://img.shields.io/badge/-Denis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-william-mamoni/)](https://www.linkedin.com/in/denis-william-mamoni/)
-
-[![Linkedin: hugo](https://img.shields.io/badge/-Hugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-damasceno/)](https://www.linkedin.com/in/hugo-damasceno/)
-[![Linkedin: ricardo](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardolmachado/)](https://www.linkedin.com/in/ricardolmachado/)
-[![Linkedin: sebastião](https://img.shields.io/badge/-Sebastião-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/)
